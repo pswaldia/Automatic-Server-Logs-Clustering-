@@ -1,0 +1,84 @@
+L0~gs.api.log.60.Sep 09, 2019_10:45 17162 INFO gs.resource.resource_tracker [ req-vleiy-st19-07b8k3-h4bjn-r60qt4 ] Active base files: /var/lib/gs/instances/_base/vleiy-st19-07b8k3-h4bjn-r60qt4
+L17~gs.api.log.27.Sep 12, 2019_20:17 57118 INFO gs.compute.manager [ req-hjnbup-9abg-258dx-hfujap ] Deleting instance files /var/lib/gs/instances/hjnbup-9abg-258dx-hfujap
+L24~gs.compute.log.28.15-09-2019_15:38 87033 INFO gs.openapi.server [ req-251u-ntaj-92h5-tnxuz ]
+L40~gs.api.log.91.Sep 12, 2019_08:44 7794 INFO gs.compute.manager [ req-krg2v9-er9xy-iz71 ] Deleting instance files /var/lib/gs/instances/krg2v9-er9xy-iz71
+L45~gs.compute.log.58.14-09-2019_10:25 97600 INFO gs.api.openstack.compute.wsgi [ req-q2kdp-0x7vr-igbe5 ]
+L48~gs.compute.log.95.06-09-2019_15:38 22153 INFO gs.openstack.server [ req-53ijn-fipw-ufwp-4ih9m ]
+L60~gs.api.log.45.08-09-2019_03:19 67198 INFO gs.api.openstack.compute.wsgi [ req-sy65tl-vxb0tn-wxf6-yp0io-h0m2 ] Deleting instance files /var/lib/gs/instances/sy65tl-vxb0tn-wxf6-yp0io-h0m2
+L74~gs.api.log.98.Sep 14, 2019_07:31 32139 INFO gs.resource.resource_tracker [ req-hjnbup-9abg-258dx-hfujap ] Active base files: /var/lib/gs/instances/_base/hjnbup-9abg-258dx-hfujap
+L80~gs.compute.log.92.02-09-2019_07:46 62807 INFO gs.api.openstack.compute.wsgi [ req-ydjr7v-c3mgjr-u9qae ]
+L94~gs.api.log.87.Sep 08, 2019_05:43 47672 INFO gs.openapi.wsgi.server [ req-d7zuw6-uh29c-54er ] Removable base files: /var/lib/gs/instances/_base/ndrl-5eva8-a0um-ydp4fa-mn76
+L101~gs.api.log.19.Sep 04, 2019_12:23 84154 INFO gs.api.openapi.compute.wsgi [ req-b7con1-z4rqj7-n80j6 ] Active base files: /var/lib/gs/instances/_base/b7con1-z4rqj7-n80j6
+L116~gs.api.log.18.Sep 10, 2019_09:32 88598 INFO gs.openstack.wsgi.server [ req-2i1w-mn76-hliy2 ] Active base files: /var/lib/gs/instances/_base/2i1w-mn76-hliy2
+L124~gs.api.log.13.Sep 01, 2019_03:08 48394 INFO gs.api.openstack.compute.wsgi [ req-gyb4k-4nbsil-1ygsj-nji3 ] Active base files: /var/lib/gs/instances/_base/gyb4k-4nbsil-1ygsj-nji3
+L126~gs.api.log.15.Sep 01, 2019_00:27 29535 INFO gs.resource.manager [ req-51oy-fw0lc-j602eg-jlb62-rpa9o ] Active base files: /var/lib/gs/instances/_base/51oy-fw0lc-j602eg-jlb62-rpa9o
+L129~gs.api.log.38.06-09-2019_17:05 10554 INFO gs.openapi.wsgi.server [ req-ndrl-vxb0tn-8cqjwp-wxf6 ] Removable base files: /var/lib/gs/instances/_base/nbd8-mvdb8-6nub-5bkrt
+L131~gs.api.log.81.15-09-2019_10:59 55318 INFO gs.resource.claims [ req-ydp4fa-i6qn3-kd1q ] Deleting instance files /var/lib/gs/instances/ydp4fa-i6qn3-kd1q
+L134~gs.api.log.72.02-09-2019_17:08 74721 INFO gs.api.openstack.compute.wsgi [ req-0x7vr-53ijn-b3yovi ] Removable base files: /var/lib/gs/instances/_base/1eq4-x9cjd-yp0io-6g9t
+L137~gs.api.log.14.12-09-2019_13:06 10158 INFO gs.openapi.server [ req-dw0s-tnxuz-hg2m1 ] Removable base files: /var/lib/gs/instances/_base/lem3a-rhezju-igbe5-ioxmw
+L138~gs.api.log.35.03-09-2019_12:41 85934 INFO gs.resource.manager [ req-ovjcx-krg2v9-p5tb-6fcpz3-82nm9w ] Deleting instance files /var/lib/gs/instances/ovjcx-krg2v9-p5tb-6fcpz3-82nm9w
+L143~gs.api.log.55.10-09-2019_00:24 16598 INFO gs.compute.manager [ req-glde-4dsm6h-8913pu-6fcpz3-i6qn3 ] Removable base files: /var/lib/gs/instances/_base/1pje6m-8cqjwp-op4ryu-1eq4
+L170~gs.api.log.23.Sep 05, 2019_17:25 61796 INFO gs.openstack.wsgi.server [ req-ywof1-rbdla-2aque-8t26-95ewzi ] Active base files: /var/lib/gs/instances/_base/ywof1-rbdla-2aque-8t26-95ewzi
+L178~gs.api.log.33.Sep 03, 2019_20:53 57747 INFO gs.api.openstack.compute.wsgi [ req-4fsdei-ydjr7v-h4bjn ] Active base files: /var/lib/gs/instances/_base/4fsdei-ydjr7v-h4bjn
+L187~gs.api.log.38.09-09-2019_08:35 37201 INFO gs.api.openapi.compute.wsgi [ req-4d8fin-cmhkf9-9y6vnd-hjnbup-enwlc ] Active base files: /var/lib/gs/instances/_base/4d8fin-cmhkf9-9y6vnd-hjnbup-enwlc
+L207~gs.api.log.26.10-09-2019_23:13 47672 INFO gs.openapi.server [ req-1aeb-hkjo-1fdm7 ] Removable base files: /var/lib/gs/instances/_base/nhwlbg-sqwbf0-4dsm6h-voi178
+L220~gs.api.log.38.08-09-2019_05:20 89845 INFO gs.api.openstack.compute.wsgi [ req-b7con1-z4rqj7-n80j6 ] Active base files: /var/lib/gs/instances/_base/b7con1-z4rqj7-n80j6
+L244~gs.api.log.30.Sep 10, 2019_20:59 77456 INFO gs.resource.claims [ req-mvdb8-fipw-n3zb-j602eg-57sy1o ] Removable base files: /var/lib/gs/instances/_base/5dfynt-ezvs7-ugkq-uol7ef-rpa9o
+L249~gs.api.log.81.04-09-2019_01:10 1071 INFO gs.resource.claims [ req-9y6vnd-0n37-x3fz-a7s4-e1ajgn ] Removable base files: /var/lib/gs/instances/_base/9fqgh-e1ajgn-hliy2-51oy
+L259~gs.api.log.13.09-09-2019_17:39 33325 INFO gs.openapi.server [ req-i6qn3-7aqk-snx5kr-50frl-8v3qyr ] Deleting instance files /var/lib/gs/instances/i6qn3-7aqk-snx5kr-50frl-8v3qyr
+L263~gs.api.log.45.12-09-2019_11:07 29396 INFO gs.resource.manager [ req-vwctu-mvdb8-m51l ] Deleting instance files /var/lib/gs/instances/vwctu-mvdb8-m51l
+L264~gs.compute.log.35.04-09-2019_19:01 62161 INFO gs.resource.manager [ req-1pje6m-8cqjwp-op4ryu-1eq4 ]
+L274~gs.api.log.42.Sep 01, 2019_22:05 59198 INFO gs.openstack.server [ req-az74cj-igbe5-yn78p ] Removable base files: /var/lib/gs/instances/_base/i4k31-vleiy-voa1
+L282~gs.api.log.53.09-09-2019_00:19 82375 INFO gs.openapi.server [ req-n3zb-lcj1d-epdv4-t8i3f ] Deleting instance files /var/lib/gs/instances/n3zb-lcj1d-epdv4-t8i3f
+L293~gs.api.log.48.Sep 05, 2019_06:01 76888 INFO gs.openapi.server [ req-d7bus-l8i6v-voi178-a7s4 ] Removable base files: /var/lib/gs/instances/_base/z7ugl6-du3mf-7blvs-2m85w
+L294~gs.api.log.69.03-09-2019_04:41 52826 INFO gs.compute.resource_tracker [ req-c3mgjr-vz2nx-eqb6yn-lx5g-p5ek ] Removable base files: /var/lib/gs/instances/_base/dwqbe1-9a7mre-z210-kh485z-2m85w
+L307~gs.api.log.28.01-09-2019_03:21 28152 INFO gs.openapi.wsgi.server [ req-rvkx-sxer-sgnvfi-l8i6v ] Removable base files: /var/lib/gs/instances/_base/6exg9o-9q2us-b3yovi-78jxq
+L332~gs.compute.log.78.05-09-2019_02:22 25474 INFO gs.api.openstack.compute.wsgi [ req-7dxu2-4dsm6h-nv8jct-8zl7 ]
+L343~gs.api.log.17.Sep 06, 2019_07:22 87707 INFO gs.openstack.server [ req-xtqs-zwa26p-pkgfom-ntaj ] Deleting instance files /var/lib/gs/instances/xtqs-zwa26p-pkgfom-ntaj
+L346~gs.compute.log.29.02-09-2019_21:55 98091 INFO gs.openstack.wsgi.server [ req-x2rl-v3fcs-uab0iz-j1yt ]
+L354~gs.api.log.38.Sep 06, 2019_13:12 96307 INFO gs.resource.resource_tracker [ req-4t85u-rsjok9-q2b5x-wxf6-2bi3 ] Active base files: /var/lib/gs/instances/_base/4t85u-rsjok9-q2b5x-wxf6-2bi3
+L376~gs.compute.log.44.01-09-2019_02:57 68722 INFO gs.api.openapi.compute.wsgi [ req-8vpj-g0zcrh-pg4e ]
+L380~gs.api.log.68.01-09-2019_20:03 49827 INFO gs.compute.resource_tracker [ req-r4wq1s-voi178-8zl7-3npi ] Active base files: /var/lib/gs/instances/_base/r4wq1s-voi178-8zl7-3npi
+L397~gs.api.log.48.Sep 04, 2019_03:19 43619 INFO gs.api.openapi.compute.wsgi [ req-1apj2-en3g-4yrq2-xkf8-gmw3 ] Deleting instance files /var/lib/gs/instances/1apj2-en3g-4yrq2-xkf8-gmw3
+L421~gs.api.log.54.Sep 06, 2019_04:33 26647 INFO gs.resource.manager [ req-2soxl-7gtvf9-lem3a ] Deleting instance files /var/lib/gs/instances/2soxl-7gtvf9-lem3a
+L429~gs.api.log.63.Sep 07, 2019_15:06 43541 INFO gs.openapi.wsgi.server [ req-uxnq-qvrlz-4dsm6h-251u ] Removable base files: /var/lib/gs/instances/_base/ynj5-tn296-az74cj-i805py
+L448~gs.api.log.82.Sep 11, 2019_15:10 30951 INFO gs.resource.claims [ req-jlb62-8vpj-a8eyko-znf6p1 ] Removable base files: /var/lib/gs/instances/_base/cm93ef-voi178-m23xr-cn6d-kixja
+L481~gs.api.log.91.Sep 01, 2019_05:43 13731 INFO gs.openapi.server [ req-p5tb-zcg4a-gyb4k-iz71 ] Deleting instance files /var/lib/gs/instances/p5tb-zcg4a-gyb4k-iz71
+L487~gs.api.log.72.08-09-2019_16:34 5910 INFO gs.openstack.wsgi.server [ req-4uz8-z7ugl6-9a7mre-ndrl ] Active base files: /var/lib/gs/instances/_base/4uz8-z7ugl6-9a7mre-ndrl
+L491~gs.api.log.27.09-09-2019_05:22 7897 INFO gs.resource.resource_tracker [ req-n6g4-be2u-0n37-pt2zo-er9xy ] Removable base files: /var/lib/gs/instances/_base/n1wxm-mhyqjk-7blvs-78jxq-072ft
+L495~gs.api.log.65.11-09-2019_16:54 52058 INFO gs.api.openapi.compute.wsgi [ req-krg2v9-er9xy-iz71 ] Deleting instance files /var/lib/gs/instances/krg2v9-er9xy-iz71
+L548~gs.api.log.36.Sep 02, 2019_16:34 78650 INFO gs.compute.resource_tracker [ req-6czg50-cz92j4-op4ryu-njros0-qi4yxm ] Deleting instance files /var/lib/gs/instances/6czg50-cz92j4-op4ryu-njros0-qi4yxm
+L561~gs.api.log.80.Sep 08, 2019_07:54 23800 INFO gs.resource.claims [ req-nv1ui-awy8e3-gmw3 ] Removable base files: /var/lib/gs/instances/_base/xtqs-wud8m-za7m-sgnvfi
+L562~gs.api.log.56.Sep 01, 2019_15:03 31489 INFO gs.resource.claims [ req-1eq4-kqijyd-gmw3 ] Removable base files: /var/lib/gs/instances/_base/43bt7y-n6g4-lem3a
+L580~gs.api.log.12.Sep 14, 2019_00:09 56038 INFO gs.resource.manager [ req-bztu59-5zws-njros0-07b8k3 ] Deleting instance files /var/lib/gs/instances/bztu59-5zws-njros0-07b8k3
+L590~gs.compute.log.24.06-09-2019_16:19 44391 INFO gs.openapi.wsgi.server [ req-sxer-1pje6m-jk6v1l ]
+L597~gs.api.log.38.02-09-2019_22:17 27835 INFO gs.resource.manager [ req-yafw5-x2sl-4cz1n-uy1al5-560z ] Removable base files: /var/lib/gs/instances/_base/3poj-st19-r1qyx-kw0tiv
+L602~gs.compute.log.99.12-09-2019_19:09 55809 INFO gs.openstack.server [ req-ylvs-kh485z-54er ]
+L618~gs.api.log.11.12-09-2019_04:41 10158 INFO gs.compute.manager [ req-8vpj-vxb0tn-5zery ] Removable base files: /var/lib/gs/instances/_base/sngw-znf6p1-vz2nx-gbocui
+L635~gs.api.log.50.11-09-2019_07:54 60109 INFO gs.openapi.server [ req-ndrl-53ijn-h9pg ] Deleting instance files /var/lib/gs/instances/ndrl-53ijn-h9pg
+L636~gs.compute.log.69.15-09-2019_17:15 36462 INFO gs.openapi.wsgi.server [ req-g0zcrh-n698w-zrbjc8-iz71-6od5mc ]
+L644~gs.compute.log.50.04-09-2019_15:20 78417 INFO gs.api.openstack.compute.wsgi [ req-n7w9u-2i1w-b0u4v-ahegn ]
+L646~gs.compute.log.70.13-09-2019_16:03 63862 INFO gs.resource.manager [ req-y5tj-ufwp-34nme6-6do12x ]
+L651~gs.api.log.41.12-09-2019_16:00 71668 INFO gs.resource.resource_tracker [ req-vz2nx-rj0zcy-lem3a-hg2m1-j6zsi ] Removable base files: /var/lib/gs/instances/_base/sxer-xmgj-p5tb
+L659~gs.api.log.76.Sep 13, 2019_23:10 10554 INFO gs.api.openstack.compute.wsgi [ req-glde-a32lk-o20nek-9tci3b-1gbn ] Active base files: /var/lib/gs/instances/_base/glde-a32lk-o20nek-9tci3b-1gbn
+L682~gs.api.log.43.Sep 04, 2019_03:10 90382 INFO gs.resource.resource_tracker [ req-4nbsil-xms9j-fysr ] Deleting instance files /var/lib/gs/instances/4nbsil-xms9j-fysr
+L694~gs.api.log.79.Sep 04, 2019_21:27 10158 INFO gs.openapi.server [ req-uxnq-bo2j1i-g195y-za7m-kz6vg ] Deleting instance files /var/lib/gs/instances/uxnq-bo2j1i-g195y-za7m-kz6vg
+L696~gs.api.log.92.03-09-2019_23:13 9532 INFO gs.openstack.server [ req-7kwbx-bql5g-dr2nm ] Deleting instance files /var/lib/gs/instances/7kwbx-bql5g-dr2nm
+L705~gs.api.log.20.Sep 07, 2019_15:40 37236 INFO gs.openapi.wsgi.server [ req-e9f1-bdsu2p-bql5g ] Removable base files: /var/lib/gs/instances/_base/659m7-pt2zo-eqb6yn
+L779~gs.api.log.77.02-09-2019_21:56 10452 INFO gs.compute.manager [ req-2g7o1-9fqgh-50frl ] Deleting instance files /var/lib/gs/instances/2g7o1-9fqgh-50frl
+L783~gs.api.log.96.Sep 04, 2019_02:17 45688 INFO gs.resource.resource_tracker [ req-fcvp-2m85w-bdsu2p-voi178 ] Deleting instance files /var/lib/gs/instances/fcvp-2m85w-bdsu2p-voi178
+L789~gs.api.log.37.13-09-2019_16:24 59342 INFO gs.openstack.wsgi.server [ req-i6qn3-7aqk-snx5kr-50frl-8v3qyr ] Deleting instance files /var/lib/gs/instances/i6qn3-7aqk-snx5kr-50frl-8v3qyr
+L804~gs.api.log.64.Sep 04, 2019_23:07 76888 INFO gs.compute.manager [ req-guc3-uol7ef-wrcp-64ugji-nji3 ] Active base files: /var/lib/gs/instances/_base/guc3-uol7ef-wrcp-64ugji-nji3
+L806~gs.compute.log.38.14-09-2019_10:01 13649 INFO gs.resource.manager [ req-86olmf-o9uw-hkjo-bid2 ]
+L812~gs.api.log.45.02-09-2019_11:49 33118 INFO gs.api.openstack.compute.wsgi [ req-en3g-6do12x-vhgtcd-dw0s-5v7pe0 ] Active base files: /var/lib/gs/instances/_base/en3g-6do12x-vhgtcd-dw0s-5v7pe0
+L826~gs.api.log.30.01-09-2019_00:23 50056 INFO gs.resource.resource_tracker [ req-pg4e-qvrlz-jvlt-eqb6yn-0x7vr ] Active base files: /var/lib/gs/instances/_base/pg4e-qvrlz-jvlt-eqb6yn-0x7vr
+L845~gs.api.log.52.02-09-2019_16:34 40509 INFO gs.api.openapi.compute.wsgi [ req-3qadsw-cn6d-r1qyx-9q2us-ej4rb ] Active base files: /var/lib/gs/instances/_base/3qadsw-cn6d-r1qyx-9q2us-ej4rb
+L854~gs.api.log.20.Sep 04, 2019_16:11 79927 INFO gs.resource.resource_tracker [ req-a0um-ugkq-6x7z5 ] Active base files: /var/lib/gs/instances/_base/a0um-ugkq-6x7z5
+L897~gs.api.log.63.Sep 14, 2019_11:16 7795 INFO gs.openapi.server [ req-2pz8-251u-x9cjd-xkf8 ] Deleting instance files /var/lib/gs/instances/2pz8-251u-x9cjd-xkf8
+L908~gs.api.log.18.08-09-2019_06:59 36149 INFO gs.compute.resource_tracker [ req-ylvs-kh485z-54er ] Removable base files: /var/lib/gs/instances/_base/l8ejk-mvdb8-uab0iz
+L925~gs.api.log.36.15-09-2019_05:02 1431 INFO gs.compute.manager [ req-itcrv8-p2860-cnklvu ] Deleting instance files /var/lib/gs/instances/itcrv8-p2860-cnklvu
+L945~gs.compute.log.61.12-09-2019_22:54 4505 INFO gs.openapi.server [ req-4t85u-rsjok9-q2b5x-wxf6-2bi3 ]
+L952~gs.api.log.94.Sep 04, 2019_02:47 13524 INFO gs.resource.claims [ req-30s6i-8cqjwp-92zvgh-10wn ] Removable base files: /var/lib/gs/instances/_base/kh485z-9ifn-jlb62-5u3f-xms9j
+L993~gs.api.log.48.15-09-2019_10:07 59517 INFO gs.resource.resource_tracker [ req-7uy6-g195y-q89b-cn6d-vwctu ] Removable base files: /var/lib/gs/instances/_base/z210-n80j6-1ygsj-cmhkf9-s2ft
+L1028~gs.api.log.79.02-09-2019_07:31 43250 INFO gs.openstack.server [ req-n3zb-lcj1d-epdv4-t8i3f ] Active base files: /var/lib/gs/instances/_base/n3zb-lcj1d-epdv4-t8i3f
+L1031~gs.compute.log.65.12-09-2019_17:25 71147 INFO gs.openapi.server [ req-07b8k3-9zi0wg-p5tb ]

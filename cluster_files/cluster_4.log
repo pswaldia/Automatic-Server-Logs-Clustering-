@@ -1,0 +1,85 @@
+L1~gs.api.log.14.2019-09-02_07:57 AM 60858 INFO gs.resource.manager [ req-vz2nx-rj0zcy-lem3a-hg2m1-j6zsi ] [ instance: 8ohnb-1gbn-0eyq-1m82u-jvlt ] Instance Destroyed Successfully
+L8~gs.api.log.79.2019-09-13_10:30 AM 87076 INFO gs.openstack.server [ req-2pz8-ansf0b-1khtw-za7m ] [ instance: bql5g-1wpskj-er9xy-lf8pr1 ] Instance Destroyed Successfully
+L25~gs.api.log.60.2019-09-02_11:56 AM 59989 INFO gs.openapi.server [ req-4fsdei-0e1x4b-hg2m1-wrcp-wc27vl ] [ instance: c3mgjr-vz2nx-eqb6yn-lx5g-p5ek ] Instance spawned correctly
+L32~gs.api.log.39.2019-09-09_06:32 PM 89190 INFO gs.compute.manager [ req-ovjcx-krg2v9-p5tb-6fcpz3-82nm9w ] [ instance: k9ewd-a7nq-e7bt8n ] swap instance creation successfully
+L58~gs.api.log.85.2019-09-01_12:55 AM 4915 INFO gs.api.openapi.compute.wsgi [ req-8sa2-moywpf-glde ] [ instance: cb8v-q7rzio-l8ejk ] Instance Destroyed Successfully
+L69~gs.api.log.48.2019-09-05_11:40 PM 58504 INFO gs.openapi.wsgi.server [ req-3fmy-l89bg-yafw5-yp0io ] [ instance: i805py-yuikx0-1apj2-9fqgh-hwy80 ] Instance spawned correctly
+L77~gs.api.log.92.2019-09-05_12:12 AM 78085 INFO gs.resource.claims [ req-cb4ngr-cnklvu-5ji8-ktiqb-4nbsil ] [ instance: rhezju-6hb83-7vse1y ] swap instance creation successfully
+L78~gs.api.log.27.2019-09-11_09:22 AM 19568 INFO gs.openstack.wsgi.server [ req-o20nek-lx5g-9bc6 ] [ instance: rq1a-vla0s-57sy1o ] swap instance creation successfully
+L83~gs.api.log.72.2019-09-04_08:56 PM 92955 INFO gs.openstack.server [ req-guc3-cm93ef-hjwo27 ] [ instance: uh29c-b5cn-j602eg-6fcpz3 ] Instance spawned correctly
+L89~gs.api.log.68.2019-09-08_10:46 PM 53145 INFO gs.openapi.server [ req-9bc6-d5fmv-guc3-a9ix ] [ instance: az74cj-28du-6fcpz3-tn296-il7e ] Instance spawned correctly
+L93~gs.api.log.74.2019-09-01_04:37 AM 21859 INFO gs.openstack.server [ req-yuikx0-q89b-vwctu-zcg4a-6exg9o ] [ instance: bztu59-5zws-njros0-07b8k3 ] Instance spawned correctly
+L97~gs.api.log.60.2019-09-06_02:14 AM 19754 INFO gs.resource.claims [ req-2clbx-7zyp9-0v4wr-9jx42-1fdm7 ] [ instance: kzunes-rvkx-258dx-ntaj-ndrl ] Instance spawned correctly
+L118~gs.api.log.44.2019-09-05_11:10 PM 82992 INFO gs.resource.resource_tracker [ req-9bc6-d5fmv-guc3-a9ix ] [ instance: qvrlz-kqijyd-easb2-l89bg-460fp ] Instance spawned correctly
+L135~gs.api.log.11.2019-09-11_01:58 PM 82463 INFO gs.openstack.wsgi.server [ req-072ft-n80j6-3q0vo-258dx ] [ instance: nxlm1-epdv4-i6qn3 ] swap instance creation successfully
+L155~gs.api.log.41.2019-09-04_06:10 PM 73452 INFO gs.openstack.wsgi.server [ req-snx5kr-4fsdei-vwctu-lf8pr1-1gbn ] [ instance: jd74zt-43bt7y-m23xr-kd5eu ] Instance spawned correctly
+L164~gs.api.log.79.2019-09-03_07:06 AM 27835 INFO gs.openapi.wsgi.server [ req-uxnq-sqwbf0-o9uw ] [ instance: 8qoj-gbdq0k-nhwlbg-vla0s-x3fz ] swap instance creation successfully
+L190~gs.api.log.94.2019-09-07_04:23 PM 7897 INFO gs.openstack.server [ req-sxer-xmgj-p5tb ] [ instance: a5ug0-lh94qw-o20nek-uxnq ] Instance spawned correctly
+L203~gs.api.log.31.2019-09-15_12:37 PM 22981 INFO gs.api.openapi.compute.wsgi [ req-v3fcs-bid2-en3g ] [ instance: 28du-8913pu-gbocui-1shqbf-c3mgjr ] Instance Destroyed Successfully
+L208~gs.api.log.19.2019-09-09_12:25 AM 60707 INFO gs.api.openapi.compute.wsgi [ req-9a7mre-0zrw5-mfwd6j ] [ instance: az74cj-igbe5-yn78p ] swap instance creation successfully
+L239~gs.api.log.88.2019-09-15_09:19 PM 60221 INFO gs.resource.resource_tracker [ req-j1yt-0n37-nji3-xkf8 ] [ instance: d7zuw6-1khtw-5ji8 ] Instance spawned correctly
+L257~gs.api.log.78.2019-09-03_08:34 PM 52139 INFO gs.openstack.wsgi.server [ req-1ht782-ej4rb-lf8pr1 ] [ instance: kzunes-rvkx-258dx-ntaj-ndrl ] Instance Destroyed Successfully
+L272~gs.api.log.60.2019-09-05_02:41 AM 22343 INFO gs.resource.resource_tracker [ req-sxer-7phq-gyb4k-x9cjd ] [ instance: glde-4dsm6h-8913pu-6fcpz3-i6qn3 ] Instance Destroyed Successfully
+L286~gs.api.log.48.2019-09-08_04:15 AM 20211 INFO gs.api.openstack.compute.wsgi [ req-guc3-uol7ef-wrcp-64ugji-nji3 ] [ instance: nxlm1-0v4wr-ydjr7v ] Instance Destroyed Successfully
+L301~gs.api.log.98.2019-09-12_06:08 PM 4392 INFO gs.api.openapi.compute.wsgi [ req-hjnbup-ntaj-a7s4-mzou-u9qae ] [ instance: nxlm1-jr7s2-moywpf-c3mgjr ] swap instance creation successfully
+L306~gs.api.log.73.2019-09-11_04:43 PM 6056 INFO gs.resource.manager [ req-n80j6-6arqu-c5n1vy ] [ instance: 2pz8-nv1ui-y5tj ] Instance spawned correctly
+L312~gs.api.log.55.2019-09-04_04:57 AM 80673 INFO gs.resource.resource_tracker [ req-37c9b-yp0io-awy8e3-iz71-5mu3d ] [ instance: y9a5i-l89bg-u50a ] Instance spawned correctly
+L338~gs.api.log.67.2019-09-01_12:55 AM 33299 INFO gs.openstack.server [ req-lem3a-xd16-2bi3-7nxq-rhezju ] [ instance: lem3a-rhezju-igbe5-ioxmw ] swap instance creation successfully
+L353~gs.api.log.83.2019-09-04_09:54 PM 7874 INFO gs.resource.claims [ req-vz2nx-rj0zcy-lem3a-hg2m1-j6zsi ] [ instance: 2clbx-7zyp9-0v4wr-9jx42-1fdm7 ] swap instance creation successfully
+L364~gs.api.log.27.2019-09-14_07:13 PM 59193 INFO gs.resource.manager [ req-y9mjwk-6do12x-5eva8-gqds-64ugji ] [ instance: 6hb83-w2bz-3q0vo-amlkt-why1 ] swap instance creation successfully
+L372~gs.api.log.22.2019-09-05_09:32 PM 74041 INFO gs.api.openstack.compute.wsgi [ req-q2kdp-0x7vr-igbe5 ] [ instance: 07b8k3-9zi0wg-p5tb ] Instance Destroyed Successfully
+L383~gs.api.log.96.2019-09-14_12:43 AM 92196 INFO gs.openstack.wsgi.server [ req-rhezju-7vse1y-9jx42-jk6v1l ] [ instance: 3poj-st19-r1qyx-kw0tiv ] swap instance creation successfully
+L387~gs.api.log.62.2019-09-12_07:46 AM 91761 INFO gs.api.openstack.compute.wsgi [ req-oi5g-fysr-ygqh9-kz6vg-kd5eu ] [ instance: 6exg9o-9q2us-b3yovi-78jxq ] swap instance creation successfully
+L388~gs.api.log.74.2019-09-08_12:16 AM 46419 INFO gs.compute.resource_tracker [ req-5bkrt-2x0buc-fb9lk-yuikx0-34nme6 ] [ instance: 7nxq-6do12x-pt2zo ] Instance spawned correctly
+L389~gs.api.log.25.2019-09-04_06:39 PM 69872 INFO gs.compute.manager [ req-7nxq-6do12x-pt2zo ] [ instance: 9a7mre-gyb4k-8913pu ] Instance spawned correctly
+L390~gs.api.log.43.2019-09-12_11:37 AM 13731 INFO gs.resource.resource_tracker [ req-ndrl-53ijn-h9pg ] [ instance: vleiy-l8ejk-kz6vg ] swap instance creation successfully
+L392~gs.api.log.18.2019-09-07_01:45 AM 81764 INFO gs.openstack.server [ req-3npi-wrcp-vyrl ] [ instance: myq6t-il7e-j1yt-jlb62-bdsu2p ] Instance spawned correctly
+L402~gs.api.log.80.2019-09-11_03:14 PM 7979 INFO gs.api.openstack.compute.wsgi [ req-3poj-1gbn-mvdb8-yafw5-voi178 ] [ instance: 1shqbf-v47k-2pz8-c5n1vy-lctxos ] swap instance creation successfully
+L413~gs.api.log.46.2019-09-15_05:21 PM 6420 INFO gs.openstack.server [ req-x2rl-7vse1y-lxad0 ] [ instance: n7w9u-lp7ie4-6od5mc-8vpj ] Instance spawned correctly
+L441~gs.api.log.81.2019-09-05_02:50 AM 52872 INFO gs.compute.resource_tracker [ req-rsjok9-q2b5x-5dfynt-gz31o ] [ instance: kqijyd-1eq4-jd74zt-seht ] Instance Destroyed Successfully
+L444~gs.api.log.67.2019-09-07_01:33 PM 95397 INFO gs.resource.claims [ req-ydjr7v-c3mgjr-u9qae ] [ instance: 57sy1o-nv8jct-bql5g-lx5g-6fcpz3 ] swap instance creation successfully
+L483~gs.api.log.63.2019-09-11_04:15 AM 71668 INFO gs.resource.resource_tracker [ req-wzp4ad-a9ix-8cqjwp-f1zgu ] [ instance: 8ohnb-sn08-c5n1vy ] Instance Destroyed Successfully
+L490~gs.api.log.15.2019-09-08_01:30 AM 87816 INFO gs.openapi.wsgi.server [ req-9fqgh-e1ajgn-hliy2-51oy ] [ instance: 8ohnb-sn08-c5n1vy ] swap instance creation successfully
+L494~gs.api.log.39.2019-09-03_12:08 PM 33793 INFO gs.compute.resource_tracker [ req-ufxz-lctxos-ogc53-l89bg ] [ instance: 9fqgh-e1ajgn-hliy2-51oy ] Instance Destroyed Successfully
+L497~gs.api.log.27.2019-09-15_04:44 AM 4621 INFO gs.resource.resource_tracker [ req-sqwbf0-fns8p-guc3-x52i0-m826 ] [ instance: 460fp-6arqu-od0p-i4mf ] Instance spawned correctly
+L500~gs.api.log.57.2019-09-08_06:59 PM 3806 INFO gs.openstack.wsgi.server [ req-nv1ui-awy8e3-gmw3 ] [ instance: nxlm1-1yaqrz-rsjok9 ] Instance spawned correctly
+L503~gs.api.log.37.2019-09-04_01:00 AM 86409 INFO gs.api.openapi.compute.wsgi [ req-u9qae-8cqjwp-ywof1 ] [ instance: mvdb8-fipw-n3zb-j602eg-57sy1o ] swap instance creation successfully
+L520~gs.api.log.55.2019-09-15_01:43 PM 32642 INFO gs.api.openapi.compute.wsgi [ req-j1yt-0n37-nji3-xkf8 ] [ instance: az74cj-28du-6fcpz3-tn296-il7e ] swap instance creation successfully
+L522~gs.api.log.13.2019-09-11_09:22 AM 47845 INFO gs.resource.resource_tracker [ req-13a09-unh6-0fpkx-hjwo27 ] [ instance: x2rl-7vse1y-lxad0 ] Instance spawned correctly
+L534~gs.api.log.34.2019-09-07_02:37 PM 75286 INFO gs.openapi.wsgi.server [ req-53ijn-fipw-ufwp-4ih9m ] [ instance: r4wq1s-voi178-8zl7-3npi ] Instance spawned correctly
+L543~gs.api.log.13.2019-09-13_04:56 AM 78549 INFO gs.resource.resource_tracker [ req-tfzd-xtqs-9abg-y9a5i ] [ instance: sngw-28du-nbd8-rj0zcy-ba1v ] Instance spawned correctly
+L545~gs.api.log.68.2019-09-01_06:18 PM 71789 INFO gs.resource.manager [ req-9tci3b-lxad0-wc27vl ] [ instance: dwqbe1-9a7mre-z210-kh485z-2m85w ] Instance Destroyed Successfully
+L558~gs.api.log.96.2019-09-01_01:43 AM 81761 INFO gs.compute.resource_tracker [ req-8913pu-2aque-5l1ne ] [ instance: xms9j-g0zcrh-kd5eu ] Instance spawned correctly
+L559~gs.api.log.68.2019-09-10_04:52 AM 44532 INFO gs.resource.resource_tracker [ req-x52i0-95ewzi-tnxuz ] [ instance: k9ewd-a7nq-e7bt8n ] Instance spawned correctly
+L601~gs.api.log.13.2019-09-06_02:13 AM 6216 INFO gs.compute.manager [ req-n6g4-be2u-0n37-pt2zo-er9xy ] [ instance: 7jmh-ugkq-a7s4-6wl35r ] Instance spawned correctly
+L615~gs.api.log.48.2019-09-06_06:39 PM 57589 INFO gs.resource.manager [ req-x2rl-v3fcs-uab0iz-j1yt ] [ instance: 8vpj-g0zcrh-pg4e ] Instance Destroyed Successfully
+L629~gs.api.log.57.2019-09-12_04:23 PM 2784 INFO gs.compute.resource_tracker [ req-6hb83-w2bz-3q0vo-amlkt-why1 ] [ instance: h0kd-o74f-vla0s-3g0j6-7vse1y ] swap instance creation successfully
+L630~gs.api.log.49.2019-09-02_07:07 AM 71749 INFO gs.api.openstack.compute.wsgi [ req-05jdm-ej4rb-6arqu-cn6d ] [ instance: glde-1apj2-8vpj ] Instance spawned correctly
+L634~gs.api.log.86.2019-09-13_09:32 PM 71668 INFO gs.resource.manager [ req-2g7o1-9fqgh-50frl ] [ instance: wzp4ad-a9ix-8cqjwp-f1zgu ] Instance Destroyed Successfully
+L642~gs.api.log.46.2019-09-12_11:05 PM 76834 INFO gs.openapi.server [ req-6exg9o-9q2us-b3yovi-78jxq ] [ instance: vwypum-voi178-2soxl-rma8-vpog ] swap instance creation successfully
+L679~gs.api.log.84.2019-09-06_05:09 AM 48475 INFO gs.openstack.wsgi.server [ req-xms9j-8cqjwp-h0m2-9i57s-mn76 ] [ instance: bztu59-5zws-njros0-07b8k3 ] Instance spawned correctly
+L683~gs.api.log.85.2019-09-03_07:25 PM 97364 INFO gs.compute.resource_tracker [ req-6g9t-ydjr7v-0eyq-f1zgu ] [ instance: v3fcs-bid2-en3g ] Instance spawned correctly
+L687~gs.api.log.77.2019-09-04_11:16 AM 17274 INFO gs.openstack.server [ req-4t85u-rsjok9-q2b5x-wxf6-2bi3 ] [ instance: jr7s2-c3mgjr-4d8fin-bo2j1i ] Instance spawned correctly
+L707~gs.api.log.37.2019-09-13_03:41 AM 89231 INFO gs.openapi.server [ req-kixja-glde-1ygsj-x0rpa-pn4q2 ] [ instance: v3fcs-bid2-en3g ] Instance Destroyed Successfully
+L764~gs.api.log.63.2019-09-12_12:29 PM 65552 INFO gs.openstack.server [ req-0fpkx-6purm-vpog-enwlc-a32lk ] [ instance: 8sa2-lf8pr1-2soxl-9top1-az74cj ] Instance Destroyed Successfully
+L771~gs.api.log.79.2019-09-02_08:47 PM 45214 INFO gs.compute.manager [ req-fns8p-kzunes-8t26-6hb83-9ifn ] [ instance: kh485z-54er-guc3-joh69-3q0vo ] Instance spawned correctly
+L844~gs.api.log.37.2019-09-01_01:33 PM 40529 INFO gs.openstack.server [ req-rpa9o-92h5-gd4ks ] [ instance: dw0s-tnxuz-hg2m1 ] Instance spawned correctly
+L847~gs.api.log.74.2019-09-15_08:23 PM 35807 INFO gs.compute.manager [ req-9tci3b-vz2nx-vhgtcd ] [ instance: rq1a-vla0s-57sy1o ] Instance Destroyed Successfully
+L855~gs.api.log.24.2019-09-09_06:24 AM 58605 INFO gs.openapi.wsgi.server [ req-ved5la-nhwlbg-o9uw ] [ instance: bid2-8aqge-l8i6v-0v4wr ] Instance Destroyed Successfully
+L885~gs.api.log.23.2019-09-10_12:03 AM 18724 INFO gs.openapi.server [ req-gz31o-y4lgs-1ygsj ] [ instance: kw0tiv-53ijn-y5tj-28du-h23ew ] swap instance creation successfully
+L887~gs.api.log.14.2019-09-03_11:26 AM 84061 INFO gs.resource.resource_tracker [ req-9bc6-a9ix-8mkw ] [ instance: 0e1x4b-07c3-vhgtcd ] swap instance creation successfully
+L904~gs.api.log.10.2019-09-05_09:13 PM 71582 INFO gs.compute.resource_tracker [ req-o20nek-lx5g-9bc6 ] [ instance: ed9k-uol7ef-rj0zcy-gd4ks ] Instance Destroyed Successfully
+L905~gs.api.log.25.2019-09-15_05:14 PM 22771 INFO gs.openstack.server [ req-9y6vnd-hfujap-5v7pe0-ylvs ] [ instance: jlb62-8vpj-a8eyko-znf6p1 ] swap instance creation successfully
+L911~gs.api.log.76.2019-09-06_01:58 PM 89872 INFO gs.openstack.wsgi.server [ req-7kwbx-bql5g-dr2nm ] [ instance: 07c3-h0kd-ubec-w4q2 ] swap instance creation successfully
+L914~gs.api.log.54.2019-09-09_02:14 AM 46303 INFO gs.resource.claims [ req-6nub-ydp4fa-l0ieb-d5fmv ] [ instance: yafw5-50frl-6ot1r-b0u4v ] swap instance creation successfully
+L923~gs.api.log.84.2019-09-06_12:14 AM 15917 INFO gs.resource.claims [ req-l8i6v-63u9fq-ydjr7v ] [ instance: e8uxd-4cz1n-92h5 ] swap instance creation successfully
+L942~gs.api.log.11.2019-09-04_01:27 PM 71573 INFO gs.api.openapi.compute.wsgi [ req-v47k-p2860-1m82u-guc3 ] [ instance: x2rl-7vse1y-lxad0 ] Instance Destroyed Successfully
+L960~gs.api.log.50.2019-09-15_06:21 AM 66184 INFO gs.openapi.server [ req-2m85w-uh29c-voi178-v47k ] [ instance: t8i3f-0h4m-3fmy-kw0tiv ] swap instance creation successfully
+L983~gs.api.log.38.2019-09-15_01:57 AM 31170 INFO gs.openapi.wsgi.server [ req-9fqgh-e1ajgn-hliy2-51oy ] [ instance: 6czg50-cz92j4-op4ryu-njros0-qi4yxm ] swap instance creation successfully
+L986~gs.api.log.80.2019-09-08_01:27 PM 29845 INFO gs.api.openstack.compute.wsgi [ req-nv1ui-awy8e3-gmw3 ] [ instance: wrcp-8aqge-z7ugl6 ] Instance Destroyed Successfully
+L987~gs.api.log.84.2019-09-02_03:04 AM 55580 INFO gs.api.openstack.compute.wsgi [ req-x2rl-7vse1y-lxad0 ] [ instance: 6nub-ydp4fa-l0ieb-d5fmv ] Instance spawned correctly
+L991~gs.api.log.88.2019-09-13_10:08 PM 54393 INFO gs.openapi.server [ req-ywof1-rbdla-2aque-8t26-95ewzi ] [ instance: 6fcpz3-10wn-3npi-x9cjd-0x7vr ] Instance spawned correctly
+L995~gs.api.log.42.2019-09-08_01:44 AM 32814 INFO gs.resource.claims [ req-iz71-4cz1n-3q0vo-lem3a ] [ instance: 4fsdei-1zaf04-ufxz-iv6no ] swap instance creation successfully
+L997~gs.api.log.99.2019-09-15_11:52 PM 76076 INFO gs.compute.resource_tracker [ req-7dxu2-4dsm6h-nv8jct-8zl7 ] [ instance: 7jmh-5l1ne-nji3 ] swap instance creation successfully
+L1039~gs.api.log.11.2019-09-09_08:17 PM 28966 INFO gs.openapi.wsgi.server [ req-n7w9u-tn296-gmw3 ] [ instance: ovjcx-l89bg-guc3 ] Instance Destroyed Successfully
+L1047~gs.api.log.54.2019-09-08_09:13 PM 45575 INFO gs.openapi.wsgi.server [ req-2aque-d7zuw6-1yaqrz ] [ instance: wud8m-ydjr7v-10wn ] Instance spawned correctly

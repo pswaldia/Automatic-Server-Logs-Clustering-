@@ -1,0 +1,93 @@
+L36~gs.compute.log.87.11-09-2019_15:47:00 55809 INFO gs.api.openapi.compute.wsgi [ req-i6qn3-7aqk-snx5kr-50frl-8v3qyr ] [ instance: 0eyq-ws0mh-rytxe8-du3mf ] Takes 746 seconds to deallocate network for instance
+L50~gs.compute.log.64.07-09-2019_08:42 PM 31038 INFO gs.api.openapi.compute.wsgi [ req-6od5mc-e6ba-xd16 ] [ instance: wrcp-8aqge-z7ugl6 ] Takes 4525 seconds to deallocate network for instance
+L115~gs.compute.log.42.02-09-2019_14:31:00 43892 INFO gs.compute.manager [ req-kd5eu-7aqk-i4mf-xms9j ] [ instance: 2pz8-ansf0b-1khtw-za7m ] Took 5691 seconds to destroy the instance on the hypervisor
+L125~gs.compute.log.92.13-09-2019_09:00 AM 85719 INFO gs.compute.manager [ req-rpa9o-7jmh-6g4iw0-myq6t-x9cjd ] [ instance: k9ewd-9q2us-nhwlbg ] Took 2118 seconds to spawn the instance on the hypervisor
+L139~gs.compute.log.22.2019-09-07_07:20 AM 71280 INFO gs.resource.resource_tracker [ req-37c9b-n7w9u-e9f1-xkf8-q2b5x ] [ instance: ecovnl-y9mjwk-mzou-d9uwo ] Took 4102 seconds to spawn the instance on the hypervisor
+L140~gs.compute.log.68.2019-09-11_07:09 PM 54331 INFO gs.openstack.server [ req-7kwbx-bql5g-dr2nm ] [ instance: l89bg-f1zgu-sqwbf0-r60qt4-yafw5 ] Took 8594 seconds to destroy the instance on the hypervisor
+L149~gs.compute.log.56.2019-09-09_21:58:00 70948 INFO gs.resource.claims [ req-sqwbf0-fns8p-guc3-x52i0-m826 ] [ instance: jfinu-6hb83-wc27vl-7dxu2 ] Took 3527 seconds to destroy the instance on the hypervisor
+L153~gs.compute.log.76.2019-09-13_11:10 PM 70097 INFO gs.resource.manager [ req-2clbx-yuikx0-wrcp-ubec-9jx42 ] [ instance: l8i6v-63u9fq-ydjr7v ] Takes 339 seconds to build the instance
+L162~gs.compute.log.51.02-09-2019_03:38:00 12113 INFO gs.resource.manager [ req-b7con1-z4rqj7-n80j6 ] [ instance: 8dkjs1-tdsx-gyb4k-v7y98 ] Takes 7811 seconds to build the instance
+L177~gs.compute.log.40.15-09-2019_01:47:00 32755 INFO gs.api.openstack.compute.wsgi [ req-rvkx-sxer-sgnvfi-l8i6v ] [ instance: be2u-50frl-kixja-d5fmv ] Took 3129 seconds to spawn the instance on the hypervisor
+L183~gs.compute.log.81.2019-09-13_18:50:00 8131 INFO gs.api.openstack.compute.wsgi [ req-3fmy-zwa26p-uh29c-q2kdp-z210 ] [ instance: 5v7pe0-az74cj-ynj5 ] Takes 9951 seconds to deallocate network for instance
+L184~gs.compute.log.38.2019-09-14_01:29:00 49036 INFO gs.resource.claims [ req-vleiy-l8ejk-kz6vg ] [ instance: y8zx-gyb4k-znquk ] Took 3357 seconds to destroy the instance on the hypervisor
+L186~gs.compute.log.45.2019-09-06_01:47:00 80201 INFO gs.openapi.wsgi.server [ req-kqijyd-1eq4-jd74zt-seht ] [ instance: vla0s-n80j6-072ft-be2u-hx5on ] Takes 7058 seconds to deallocate network for instance
+L188~gs.compute.log.84.2019-09-12_12:01 PM 73812 INFO gs.openstack.wsgi.server [ req-2aque-tn296-yafw5-b5cn-43bt7y ] [ instance: kh485z-54er-guc3-joh69-3q0vo ] Took 8394 seconds to spawn the instance on the hypervisor
+L210~gs.compute.log.25.02-09-2019_08:24:00 30526 INFO gs.api.openstack.compute.wsgi [ req-s2ft-p5ek-8cqjwp-8mkw-0fpkx ] [ instance: wzp4ad-a9ix-8cqjwp-f1zgu ] Took 1427 seconds to destroy the instance on the hypervisor
+L218~gs.compute.log.35.10-09-2019_09:10 AM 57840 INFO gs.compute.resource_tracker [ req-7zyp9-j4fbq-gzm5sd-28du-sngw ] [ instance: jlb62-q2b5x-92h5-hvtw-jd74zt ] Took 1562 seconds to spawn the instance on the hypervisor
+L279~gs.compute.log.48.2019-09-09_12:51 PM 21333 INFO gs.openapi.wsgi.server [ req-nxlm1-0v4wr-ydjr7v ] [ instance: tdskc-rb23-6exg9o ] Took 956 seconds to destroy the instance on the hypervisor
+L297~gs.compute.log.86.2019-09-07_12:40:00 91844 INFO gs.resource.claims [ req-mzou-y9mjwk-khe4zp-e7bt8n ] [ instance: 564sz-j4fbq-lem3a-az74cj ] Took 3964 seconds to destroy the instance on the hypervisor
+L302~gs.compute.log.99.2019-09-02_13:01:00 74250 INFO gs.resource.claims [ req-z210-n80j6-1ygsj-cmhkf9-s2ft ] [ instance: 0x7vr-53ijn-b3yovi ] Took 2161 seconds to spawn the instance on the hypervisor
+L311~gs.compute.log.92.2019-09-08_09:03 AM 72939 INFO gs.compute.manager [ req-wst3yd-1a54-l89bg ] [ instance: q2kdp-0x7vr-igbe5 ] Takes 4715 seconds to build the instance
+L313~gs.compute.log.92.2019-09-08_00:41:00 91615 INFO gs.api.openstack.compute.wsgi [ req-8913pu-2aque-5l1ne ] [ instance: 0v4wr-kd1q-8sa2 ] Takes 4254 seconds to deallocate network for instance
+L315~gs.compute.log.74.2019-09-04_03:41 AM 47901 INFO gs.openapi.wsgi.server [ req-6hb83-mn76-i6qn3-cgksh2-1ygsj ] [ instance: eu14n6-e7bt8n-j6zsi-jlb62 ] Takes 6990 seconds to build the instance
+L322~gs.compute.log.76.04-09-2019_12:15:00 74431 INFO gs.compute.resource_tracker [ req-cm93ef-voi178-m23xr-cn6d-kixja ] [ instance: awy8e3-v47k-z210-0n37 ] Takes 167 seconds to build the instance
+L331~gs.compute.log.67.03-09-2019_07:57 AM 48102 INFO gs.compute.manager [ req-nhwlbg-hg2m1-8t9m-37c9b-7gtvf9 ] [ instance: 7dxu2-57sy1o-vkcih-az74cj ] Took 6434 seconds to spawn the instance on the hypervisor
+L335~gs.compute.log.84.2019-09-08_10:31:00 59517 INFO gs.resource.manager [ req-4fsdei-ydjr7v-h4bjn ] [ instance: 659m7-51oy-gyb4k-iejl9-khe4zp ] Takes 4282 seconds to deallocate network for instance
+L359~gs.compute.log.86.2019-09-11_10:58:00 70300 INFO gs.compute.resource_tracker [ req-ydp4fa-1ht782-wst3yd-wud8m ] [ instance: cm93ef-voi178-m23xr-cn6d-kixja ] Took 1921 seconds to spawn the instance on the hypervisor
+L369~gs.compute.log.41.10-09-2019_10:24:00 27141 INFO gs.openapi.wsgi.server [ req-4t85u-rsjok9-q2b5x-wxf6-2bi3 ] [ instance: b85jx-1zaf04-epdv4-unh6-vyrl ] Took 7614 seconds to spawn the instance on the hypervisor
+L384~gs.compute.log.27.2019-09-10_15:45:00 8776 INFO gs.openapi.server [ req-be2u-50frl-kixja-d5fmv ] [ instance: mn76-6ot1r-4d8fin-hfujap ] Takes 5295 seconds to build the instance
+L386~gs.compute.log.15.2019-09-07_22:21:00 80201 INFO gs.api.openstack.compute.wsgi [ req-86olmf-8vpj-4cz1n-h0kd-4t85u ] [ instance: rvkx-sxer-sgnvfi-l8i6v ] Took 1230 seconds to spawn the instance on the hypervisor
+L394~gs.compute.log.83.05-09-2019_09:27:00 73812 INFO gs.openapi.wsgi.server [ req-07c3-h0kd-ubec-w4q2 ] [ instance: mn76-6ot1r-4d8fin-hfujap ] Takes 5846 seconds to deallocate network for instance
+L396~gs.compute.log.75.2019-09-03_02:21:00 3579 INFO gs.compute.resource_tracker [ req-7dxu2-4dsm6h-nv8jct-8zl7 ] [ instance: 5v7pe0-az74cj-ynj5 ] Takes 3015 seconds to build the instance
+L398~gs.compute.log.19.2019-09-14_09:12 PM 60316 INFO gs.openstack.server [ req-2pz8-nv1ui-y5tj ] [ instance: az74cj-igbe5-yn78p ] Took 6080 seconds to destroy the instance on the hypervisor
+L405~gs.compute.log.50.12-09-2019_14:02:00 78899 INFO gs.openstack.server [ req-8sa2-moywpf-glde ] [ instance: jd74zt-43bt7y-m23xr-kd5eu ] Took 1786 seconds to spawn the instance on the hypervisor
+L415~gs.compute.log.19.2019-09-04_13:01:00 94887 INFO gs.openstack.server [ req-pkgfom-nhwlbg-78jxq-p2860 ] [ instance: guc3-uol7ef-wrcp-64ugji-nji3 ] Takes 2359 seconds to deallocate network for instance
+L427~gs.compute.log.42.2019-09-02_01:22:00 50838 INFO gs.api.openapi.compute.wsgi [ req-460fp-6arqu-od0p-i4mf ] [ instance: b5cn-ufxz-07b8k3-07c3 ] Took 6990 seconds to spawn the instance on the hypervisor
+L463~gs.compute.log.81.2019-09-07_02:17:00 60176 INFO gs.compute.resource_tracker [ req-enwlc-ylvs-l0ieb-a5ug0 ] [ instance: d5fmv-12hy-8mkw-n3zb ] Took 3129 seconds to destroy the instance on the hypervisor
+L473~gs.compute.log.55.02-09-2019_12:13:00 94619 INFO gs.openstack.server [ req-r60qt4-jr7s2-uol7ef-29jnpm ] [ instance: m826-29jnpm-tnxuz-6od5mc-gqds ] Took 1729 seconds to destroy the instance on the hypervisor
+L477~gs.compute.log.13.2019-09-11_03:49:00 30452 INFO gs.api.openstack.compute.wsgi [ req-kixja-glde-1ygsj-x0rpa-pn4q2 ] [ instance: x52i0-2clbx-4nbsil ] Takes 6020 seconds to build the instance
+L478~gs.compute.log.62.01-09-2019_00:36:00 80673 INFO gs.api.openapi.compute.wsgi [ req-86olmf-8vpj-4cz1n-h0kd-4t85u ] [ instance: ovjcx-krg2v9-p5tb-6fcpz3-82nm9w ] Took 9808 seconds to spawn the instance on the hypervisor
+L485~gs.compute.log.21.2019-09-05_00:51:00 64726 INFO gs.resource.claims [ req-7dxu2-4dsm6h-nv8jct-8zl7 ] [ instance: 9y6vnd-hfujap-5v7pe0-ylvs ] Took 7126 seconds to destroy the instance on the hypervisor
+L493~gs.compute.log.17.13-09-2019_05:21 AM 57716 INFO gs.compute.manager [ req-q7rzio-za7m-kz6vg-be2u-nji3 ] [ instance: owm2d7-1fdm7-q7rzio-gqds ] Took 1516 seconds to destroy the instance on the hypervisor
+L510~gs.compute.log.16.2019-09-01_06:10 PM 1935 INFO gs.resource.claims [ req-n7w9u-lp7ie4-6od5mc-8vpj ] [ instance: 7dxu2-1khtw-4t85u ] Took 314 seconds to spawn the instance on the hypervisor
+L515~gs.compute.log.69.2019-09-15_11:12:00 8320 INFO gs.resource.claims [ req-a0um-ugkq-6x7z5 ] [ instance: mfwd6j-rsjok9-w4q2-vwctu ] Takes 1375 seconds to deallocate network for instance
+L516~gs.compute.log.26.2019-09-15_09:08:00 55613 INFO gs.compute.resource_tracker [ req-8mkw-6nub-ws0mh-jfinu-wst3yd ] [ instance: y5tj-ufwp-34nme6-6do12x ] Takes 8090 seconds to build the instance
+L535~gs.compute.log.94.2019-09-02_05:40 PM 88598 INFO gs.compute.resource_tracker [ req-r60qt4-jr7s2-uol7ef-29jnpm ] [ instance: xmgj-1zqaf-6g9t ] Takes 4516 seconds to build the instance
+L537~gs.compute.log.91.10-09-2019_07:35 AM 71582 INFO gs.openapi.server [ req-l89bg-f1zgu-sqwbf0-r60qt4-yafw5 ] [ instance: 1pje6m-8cqjwp-op4ryu-1eq4 ] Took 9293 seconds to spawn the instance on the hypervisor
+L569~gs.compute.log.93.04-09-2019_10:07 PM 24252 INFO gs.openstack.server [ req-r60qt4-jr7s2-uol7ef-29jnpm ] [ instance: xtqs-zwa26p-pkgfom-ntaj ] Took 3917 seconds to destroy the instance on the hypervisor
+L588~gs.compute.log.96.2019-09-11_04:51 AM 71313 INFO gs.compute.resource_tracker [ req-r36js-1khtw-bid2-op4ryu ] [ instance: sqwbf0-fns8p-guc3-x52i0-m826 ] Takes 4715 seconds to deallocate network for instance
+L593~gs.compute.log.74.2019-09-08_01:29:00 96822 INFO gs.compute.resource_tracker [ req-37c9b-yp0io-awy8e3-iz71-5mu3d ] [ instance: jlb62-8vpj-a8eyko-znf6p1 ] Takes 4261 seconds to deallocate network for instance
+L606~gs.compute.log.64.03-09-2019_04:40 PM 51990 INFO gs.compute.manager [ req-05jdm-ej4rb-6arqu-cn6d ] [ instance: lem3a-rhezju-igbe5-ioxmw ] Took 1428 seconds to spawn the instance on the hypervisor
+L625~gs.compute.log.52.08-09-2019_11:04 PM 8776 INFO gs.openstack.server [ req-p2860-6od5mc-easb2 ] [ instance: 2ox7h9-b5cn-3npi-v7klnb-vla0s ] Takes 8116 seconds to deallocate network for instance
+L631~gs.compute.log.83.2019-09-06_00:51:00 32459 INFO gs.resource.manager [ req-1aeb-hkjo-1fdm7 ] [ instance: ndrl-vxb0tn-8cqjwp-wxf6 ] Took 5727 seconds to destroy the instance on the hypervisor
+L654~gs.compute.log.42.12-09-2019_06:58 AM 29197 INFO gs.openapi.wsgi.server [ req-43bt7y-n6g4-lem3a ] [ instance: y9mjwk-n1yj-6wl35r-nhwlbg ] Took 9403 seconds to spawn the instance on the hypervisor
+L674~gs.compute.log.26.14-09-2019_01:27 PM 29065 INFO gs.resource.manager [ req-8sa2-moywpf-glde ] [ instance: 3qadsw-cn6d-r1qyx-9q2us-ej4rb ] Takes 7064 seconds to build the instance
+L684~gs.compute.log.22.2019-09-08_05:08 AM 72996 INFO gs.openapi.wsgi.server [ req-mn76-6ot1r-4d8fin-hfujap ] [ instance: ovjcx-krg2v9-p5tb-6fcpz3-82nm9w ] Took 8025 seconds to spawn the instance on the hypervisor
+L690~gs.compute.log.71.12-09-2019_08:03 PM 62875 INFO gs.openapi.wsgi.server [ req-4szwa-4cz1n-st19-v7klnb ] [ instance: 7jmh-ugkq-a7s4-6wl35r ] Took 1272 seconds to spawn the instance on the hypervisor
+L700~gs.compute.log.55.01-09-2019_05:51 PM 97033 INFO gs.openapi.server [ req-uol7ef-4uz8-0zrw5 ] [ instance: ydp4fa-1ht782-wst3yd-wud8m ] Takes 6887 seconds to deallocate network for instance
+L703~gs.compute.log.92.2019-09-15_03:58 AM 45575 INFO gs.openstack.wsgi.server [ req-6od5mc-e6ba-xd16 ] [ instance: 4uz8-ubec-rytxe8-8v3qyr ] Takes 1921 seconds to deallocate network for instance
+L709~gs.compute.log.66.2019-09-04_15:36:00 8581 INFO gs.api.openstack.compute.wsgi [ req-50frl-jd74zt-w4q2 ] [ instance: lx5g-f1zgu-4agu-u5qri ] Takes 8138 seconds to deallocate network for instance
+L719~gs.compute.log.75.15-09-2019_01:02 PM 82375 INFO gs.compute.manager [ req-j1yt-0n37-nji3-xkf8 ] [ instance: 5u3f-nac86-2clbx-ed9k ] Takes 6665 seconds to deallocate network for instance
+L728~gs.compute.log.74.2019-09-10_16:41:00 74041 INFO gs.openapi.wsgi.server [ req-e8uxd-ax5skc-251u-sn08-6purm ] [ instance: 37c9b-n7w9u-e9f1-xkf8-q2b5x ] Took 2748 seconds to spawn the instance on the hypervisor
+L735~gs.compute.log.84.2019-09-05_21:36:00 22981 INFO gs.compute.resource_tracker [ req-sngw-07c3-13a09 ] [ instance: 9a7mre-gyb4k-8913pu ] Takes 4214 seconds to build the instance
+L737~gs.compute.log.16.2019-09-01_05:09 AM 62792 INFO gs.openstack.server [ req-ecovnl-34nme6-4d8fin-ylvs ] [ instance: q2b5x-0h4m-b38n-6arqu-ylvs ] Took 1457 seconds to destroy the instance on the hypervisor
+L738~gs.compute.log.89.10-09-2019_09:33:00 36606 INFO gs.compute.resource_tracker [ req-0v4wr-g0zcrh-owm2d7 ] [ instance: 9bc6-g195y-2clbx-dw0s-4yrq2 ] Takes 4226 seconds to build the instance
+L746~gs.compute.log.25.15-09-2019_12:07:00 29627 INFO gs.resource.manager [ req-jlb62-q2b5x-92h5-hvtw-jd74zt ] [ instance: rvabzf-y8zx-ed9k-3fmy ] Takes 3649 seconds to deallocate network for instance
+L752~gs.compute.log.29.14-09-2019_16:34:00 20286 INFO gs.api.openapi.compute.wsgi [ req-nxlm1-jr7s2-moywpf-c3mgjr ] [ instance: 9tci3b-lxad0-wc27vl ] Took 5743 seconds to spawn the instance on the hypervisor
+L756~gs.compute.log.31.13-09-2019_23:18:00 71749 INFO gs.openstack.server [ req-2bi3-51oy-86olmf-6arqu ] [ instance: h0m2-ptcl-63u9fq ] Took 3930 seconds to destroy the instance on the hypervisor
+L759~gs.compute.log.99.2019-09-02_22:08:00 16884 INFO gs.resource.manager [ req-dw0s-itcrv8-x9cjd-gzm5sd ] [ instance: o20nek-lx5g-9bc6 ] Takes 5585 seconds to deallocate network for instance
+L766~gs.compute.log.32.10-09-2019_10:51 AM 63534 INFO gs.openstack.server [ req-tfzd-xtqs-9abg-y9a5i ] [ instance: i4k31-vleiy-voa1 ] Takes 2661 seconds to build the instance
+L791~gs.compute.log.35.13-09-2019_11:24 AM 71150 INFO gs.compute.manager [ req-9fqgh-6g9t-xdt1u-5zws ] [ instance: rpa9o-7jmh-6g4iw0-myq6t-x9cjd ] Takes 9438 seconds to deallocate network for instance
+L807~gs.compute.log.16.2019-09-08_22:21:00 59198 INFO gs.resource.claims [ req-ecovnl-cnklvu-h9pg-ntaj-ioxmw ] [ instance: 9tci3b-7kwbx-rq1a ] Takes 3277 seconds to deallocate network for instance
+L809~gs.compute.log.91.03-09-2019_06:09 PM 50811 INFO gs.resource.manager [ req-5u3f-nac86-2clbx-ed9k ] [ instance: 2i1w-ay2ojv-h0m2-95ewzi ] Takes 5474 seconds to deallocate network for instance
+L828~gs.compute.log.97.2019-09-06_06:37:00 56038 INFO gs.resource.manager [ req-cm93ef-4yrq2-er9xy-4nbsil-gm59z ] [ instance: l89bg-4phrn-lctxos-2m85w ] Takes 6584 seconds to deallocate network for instance
+L832~gs.compute.log.67.06-09-2019_19:27:00 90359 INFO gs.openstack.wsgi.server [ req-uh29c-b5cn-j602eg-6fcpz3 ] [ instance: dw0s-zrbjc8-rb23-s5mc2-jd74zt ] Took 4805 seconds to spawn the instance on the hypervisor
+L835~gs.compute.log.34.02-09-2019_02:18:00 78549 INFO gs.api.openapi.compute.wsgi [ req-r60qt4-5u3f-x2rl ] [ instance: wzp4ad-a9ix-8cqjwp-f1zgu ] Took 4107 seconds to spawn the instance on the hypervisor
+L839~gs.compute.log.26.2019-09-09_01:00:00 81009 INFO gs.resource.claims [ req-2ox7h9-b5cn-3npi-v7klnb-vla0s ] [ instance: en3g-n7w9u-9y6vnd ] Took 8138 seconds to destroy the instance on the hypervisor
+L876~gs.compute.log.29.2019-09-11_03:31 PM 52377 INFO gs.openapi.wsgi.server [ req-wxf6-vbk5lj-4v2d ] [ instance: mn76-6ot1r-4d8fin-hfujap ] Takes 5403 seconds to deallocate network for instance
+L888~gs.compute.log.77.13-09-2019_09:32 PM 73233 INFO gs.compute.resource_tracker [ req-7jmh-5l1ne-nji3 ] [ instance: xms9j-g0zcrh-kd5eu ] Took 6153 seconds to spawn the instance on the hypervisor
+L889~gs.compute.log.76.07-09-2019_01:58 AM 5534 INFO gs.resource.resource_tracker [ req-l89bg-f1zgu-sqwbf0-r60qt4-yafw5 ] [ instance: rq1a-vla0s-57sy1o ] Took 9569 seconds to spawn the instance on the hypervisor
+L891~gs.compute.log.34.2019-09-13_21:58:00 84565 INFO gs.openstack.wsgi.server [ req-d7zuw6-1khtw-5ji8 ] [ instance: u5qri-ovjcx-hxfm7-z210-l8ejk ] Took 3352 seconds to spawn the instance on the hypervisor
+L903~gs.compute.log.16.05-09-2019_07:52 PM 2163 INFO gs.openapi.wsgi.server [ req-l89bg-4phrn-lctxos-2m85w ] [ instance: 9tci3b-7kwbx-rq1a ] Takes 2865 seconds to deallocate network for instance
+L907~gs.compute.log.83.2019-09-04_11:27:00 92955 INFO gs.api.openstack.compute.wsgi [ req-lx5g-f1zgu-4agu-u5qri ] [ instance: u9qae-hjnbup-ogc53-s2ft-x0rpa ] Took 5170 seconds to destroy the instance on the hypervisor
+L912~gs.compute.log.12.2019-09-08_09:03:00 94589 INFO gs.openapi.wsgi.server [ req-n6g4-be2u-0n37-pt2zo-er9xy ] [ instance: gkya-a5ug0-xu6th ] Takes 6104 seconds to build the instance
+L913~gs.compute.log.87.05-09-2019_22:26:00 50770 INFO gs.compute.manager [ req-2x0buc-x2sl-2u03 ] [ instance: pt2zo-l6qj1-gmw3-uh29c ] Took 3766 seconds to spawn the instance on the hypervisor
+L917~gs.compute.log.30.05-09-2019_18:59:00 86119 INFO gs.compute.manager [ req-x2rl-v3fcs-uab0iz-j1yt ] [ instance: l8i6v-63u9fq-ydjr7v ] Takes 466 seconds to build the instance
+L921~gs.compute.log.19.2019-09-06_06:15:00 70610 INFO gs.compute.manager [ req-dr2nm-a7s4-92zvgh ] [ instance: hjnbup-ntaj-a7s4-mzou-u9qae ] Took 6832 seconds to spawn the instance on the hypervisor
+L922~gs.compute.log.82.01-09-2019_03:43:00 56426 INFO gs.resource.resource_tracker [ req-t8i3f-0h4m-3fmy-kw0tiv ] [ instance: v3fcs-ahegn-0eyq ] Takes 6608 seconds to deallocate network for instance
+L936~gs.compute.log.28.2019-09-05_01:39:00 68810 INFO gs.resource.claims [ req-2x0buc-b5cn-ws0mh-fysr ] [ instance: ylvs-kh485z-54er ] Takes 3099 seconds to deallocate network for instance
+L938~gs.compute.log.66.01-09-2019_02:32 PM 51990 INFO gs.openstack.wsgi.server [ req-ndrl-53ijn-h9pg ] [ instance: ydp4fa-1ht782-wst3yd-wud8m ] Takes 712 seconds to deallocate network for instance
+L981~gs.compute.log.62.2019-09-13_14:31:00 11242 INFO gs.api.openapi.compute.wsgi [ req-9top1-6arqu-wst3yd-w4q2-ws0mh ] [ instance: 6ot1r-gm59z-gbocui ] Takes 8116 seconds to build the instance
+L990~gs.compute.log.24.2019-09-10_10:17:00 92275 INFO gs.resource.manager [ req-50frl-jd74zt-w4q2 ] [ instance: i4k31-vleiy-voa1 ] Took 3253 seconds to destroy the instance on the hypervisor
+L1003~gs.compute.log.61.09-09-2019_03:20 PM 92151 INFO gs.api.openapi.compute.wsgi [ req-6exg9o-9q2us-b3yovi-78jxq ] [ instance: 30s6i-8cqjwp-92zvgh-10wn ] Takes 1995 seconds to deallocate network for instance
+L1033~gs.compute.log.44.01-09-2019_02:18 PM 70051 INFO gs.api.openapi.compute.wsgi [ req-awy8e3-v47k-z210-0n37 ] [ instance: 53ijn-e7bt8n-8zl7-7blvs ] Took 1260 seconds to spawn the instance on the hypervisor

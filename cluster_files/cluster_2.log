@@ -1,0 +1,100 @@
+L16~gs.compute.log.43.Sep 07, 2019_18:46 10837 INFO gs.compute.resource_tracker [ req-wud8m-x2rl-mvdb8 ] "GET /v2/2019-09-09 meta_data.json HTTP/1.1" status: 404 len: 8748 time: 0.7630763
+L22~gs.compute.log.68.03-09-2019_15:13 40594 INFO gs.resource.claims [ req-jfinu-6hb83-wc27vl-7dxu2 ] "GET /v2/2019-09-05 user_data.json HTTP/1.1" status: 404 len: 5781 time: 0.59996
+L23~gs.compute.log.51.Sep 09, 2019_16:58 6303 INFO gs.api.openstack.compute.wsgi [ req-m826-ntau-qi4yxm-hvtw ] "GET /v2/2019-09-10 user_data.json HTTP/1.1" status: 404 len: 6597 time: 0.3162316
+L29~gs.compute.log.86.09-09-2019_19:53 67404 INFO gs.openstack.wsgi.server [ req-n7w9u-2i1w-b0u4v-ahegn ] "GET /v2/2019-09-07 user_data.json HTTP/1.1" status: 201 len: 6957 time: 0.2943294
+L31~gs.compute.log.54.08-09-2019_12:38 33300 INFO gs.resource.manager [ req-p5tb-1eq4-gbocui ] "GET /v2/2019-09-14 meta_data.json HTTP/1.1" status: 404 len: 9149 time: 0.7429743
+L38~gs.compute.log.10.10-09-2019_12:04 73812 INFO gs.openapi.server [ req-05jdm-ej4rb-6arqu-cn6d ] "GET /v2/2019-09-06 meta_data.json HTTP/1.1" status: 201 len: 8842 time: 0.139914
+L41~gs.compute.log.92.Sep 12, 2019_04:28 44314 INFO gs.openapi.server [ req-tdsx-rvkx-x52i0 ] "GET /v2/2019-09-11 vendor_data.json HTTP/1.1" status: 201 len: 9259 time: 0.7135714
+L55~gs.compute.log.43.05-09-2019_13:32 7615 INFO gs.api.openstack.compute.wsgi [ req-wxf6-vbk5lj-4v2d ] "GET /v2/2019-09-10 meta_data.json HTTP/1.1" status: 201 len: 9568 time: 0.1667167
+L88~gs.compute.log.89.Sep 04, 2019_08:53 7481 INFO gs.openstack.server [ req-8ohnb-1gbn-0eyq-1m82u-jvlt ] "GET /v2/2019-09-03 meta_data.json HTTP/1.1" status: 404 len: 9604 time: 0.1227123
+L90~gs.compute.log.24.15-09-2019_01:47 33510 INFO gs.openstack.wsgi.server [ req-d7bus-cn6d-6g4iw0-1yaqrz ] "GET /v2/2019-09-15 vendor_data.json HTTP/1.1" status: 404 len: 2560 time: 0.4083408
+L92~gs.compute.log.26.Sep 02, 2019_10:59 48394 INFO gs.api.openstack.compute.wsgi [ req-7nxq-6do12x-pt2zo ] "GET /v2/2019-09-06 vendor_data.json HTTP/1.1" status: 201 len: 8858 time: 0.7560756
+L104~gs.compute.log.98.10-09-2019_02:22 7897 INFO gs.resource.claims [ req-9tci3b-vxb0tn-bql5g ] "GET /v2/2019-09-07 vendor_data.json HTTP/1.1" status: 404 len: 9307 time: 0.6226623
+L112~gs.compute.log.24.Sep 08, 2019_18:16 3016 INFO gs.resource.claims [ req-sxer-1pje6m-jk6v1l ] "GET /v2/2019-09-15 user_data.json HTTP/1.1" status: 404 len: 4989 time: 0.8289829
+L145~gs.compute.log.69.Sep 07, 2019_14:17 13524 INFO gs.resource.manager [ req-ecovnl-cnklvu-h9pg-ntaj-ioxmw ] "GET /v2/2019-09-04 meta_data.json HTTP/1.1" status: 404 len: 1248 time: 0.6956696
+L151~gs.compute.log.16.Sep 15, 2019_13:37 15746 INFO gs.resource.resource_tracker [ req-y8zx-hjnbup-nji3-p2860-ntau ] "GET /v2/2019-09-13 vendor_data.json HTTP/1.1" status: 201 len: 2099 time: 0.0175018
+L163~gs.compute.log.90.11-09-2019_05:20 33793 INFO gs.openstack.wsgi.server [ req-rsjok9-l0ieb-659m7-8ohnb ] "GET /v2/2019-09-01 user_data.json HTTP/1.1" status: 404 len: 3131 time: 0.1062106
+L165~gs.compute.log.67.Sep 13, 2019_15:03 40663 INFO gs.resource.manager [ req-y9a5i-l89bg-u50a ] "GET /v2/2019-09-10 vendor_data.json HTTP/1.1" status: 404 len: 1176 time: 0.8760876
+L167~gs.compute.log.85.15-09-2019_04:35 30526 INFO gs.openapi.wsgi.server [ req-jfinu-5v7pe0-why1-9y6vnd ] "GET /v2/2019-09-09 user_data.json HTTP/1.1" status: 201 len: 3016 time: 0.4452445
+L172~gs.compute.log.27.Sep 02, 2019_15:14 51990 INFO gs.resource.manager [ req-v47k-p2860-1m82u-guc3 ] "GET /v2/2019-09-10 vendor_data.json HTTP/1.1" status: 201 len: 7669 time: 0.5309531
+L179~gs.compute.log.71.14-09-2019_11:19 16449 INFO gs.openstack.wsgi.server [ req-z7ugl6-du3mf-7blvs-2m85w ] "GET /v2/2019-09-02 user_data.json HTTP/1.1" status: 404 len: 148 time: 0.1061106
+L181~gs.compute.log.28.Sep 01, 2019_18:57 54331 INFO gs.api.openstack.compute.wsgi [ req-0x7vr-vxb0tn-rsjok9-cb8v-gm59z ] "GET /v2/2019-09-13 user_data.json HTTP/1.1" status: 404 len: 5217 time: 0.7738774
+L197~gs.compute.log.57.01-09-2019_05:06 20411 INFO gs.api.openstack.compute.wsgi [ req-jfinu-6hb83-wc27vl-7dxu2 ] "GET /v2/2019-09-07 meta_data.json HTTP/1.1" status: 404 len: 4906 time: 0.8906891
+L204~gs.compute.log.49.Sep 03, 2019_20:21 94359 INFO gs.compute.manager [ req-vpog-kw0tiv-ws0mh ] "GET /v2/2019-09-15 user_data.json HTTP/1.1" status: 404 len: 5764 time: 0.2607261
+L211~gs.compute.log.35.Sep 04, 2019_22:07 85577 INFO gs.api.openapi.compute.wsgi [ req-kixja-417l-vbk5lj-jlb62-jk6v1l ] "GET /v2/2019-09-04 vendor_data.json HTTP/1.1" status: 201 len: 2595 time: 0.6629663
+L226~gs.compute.log.95.Sep 06, 2019_19:58 69979 INFO gs.resource.resource_tracker [ req-kyum-z210-cnklvu-o20nek-yn78p ] "GET /v2/2019-09-11 meta_data.json HTTP/1.1" status: 201 len: 6700 time: 0.8358836
+L233~gs.compute.log.32.02-09-2019_07:22 3926 INFO gs.resource.manager [ req-en3g-n7w9u-9y6vnd ] "GET /v2/2019-09-14 user_data.json HTTP/1.1" status: 201 len: 7330 time: 0.3148315
+L240~gs.compute.log.69.03-09-2019_15:57 17162 INFO gs.resource.manager [ req-3fmy-l89bg-yafw5-yp0io ] "GET /v2/2019-09-09 user_data.json HTTP/1.1" status: 201 len: 7962 time: 0.2926293
+L243~gs.compute.log.23.Sep 06, 2019_10:45 57247 INFO gs.openapi.server [ req-7nxq-8913pu-rb23-3g0j6-sqwbf0 ] "GET /v2/2019-09-05 meta_data.json HTTP/1.1" status: 404 len: 7888 time: 0.6785679
+L248~gs.compute.log.72.15-09-2019_01:49 48237 INFO gs.api.openstack.compute.wsgi [ req-37c9b-n7w9u-e9f1-xkf8-q2b5x ] "GET /v2/2019-09-13 user_data.json HTTP/1.1" status: 404 len: 8483 time: 0.4732473
+L258~gs.compute.log.42.Sep 11, 2019_02:03 24474 INFO gs.openstack.wsgi.server [ req-rhezju-7vse1y-9jx42-jk6v1l ] "GET /v2/2019-09-12 user_data.json HTTP/1.1" status: 201 len: 9514 time: 0.4484448
+L273~gs.compute.log.18.14-09-2019_19:32 15507 INFO gs.resource.manager [ req-6purm-u50a-wzp4ad-xdt1u-ufxz ] "GET /v2/2019-09-10 vendor_data.json HTTP/1.1" status: 404 len: 524 time: 0.5450545
+L285~gs.compute.log.29.Sep 04, 2019_19:12 33810 INFO gs.api.openapi.compute.wsgi [ req-6purm-u50a-wzp4ad-xdt1u-ufxz ] "GET /v2/2019-09-02 vendor_data.json HTTP/1.1" status: 201 len: 5034 time: 0.9142914
+L296~gs.compute.log.53.12-09-2019_11:53 54331 INFO gs.api.openstack.compute.wsgi [ req-nxlm1-1yaqrz-rsjok9 ] "GET /v2/2019-09-02 user_data.json HTTP/1.1" status: 404 len: 6858 time: 0.820282
+L303~gs.compute.log.33.01-09-2019_09:01 78518 INFO gs.openstack.wsgi.server [ req-7nxq-6do12x-pt2zo ] "GET /v2/2019-09-04 meta_data.json HTTP/1.1" status: 201 len: 2138 time: 0.7630763
+L308~gs.compute.log.43.Sep 10, 2019_14:41 8320 INFO gs.openapi.wsgi.server [ req-7uy6-g195y-q89b-cn6d-vwctu ] "GET /v2/2019-09-10 meta_data.json HTTP/1.1" status: 201 len: 666 time: 0.2453245
+L310~gs.compute.log.44.06-09-2019_17:39 74749 INFO gs.openstack.wsgi.server [ req-4uz8-ubec-rytxe8-8v3qyr ] "GET /v2/2019-09-07 meta_data.json HTTP/1.1" status: 201 len: 6241 time: 0.3314331
+L318~gs.compute.log.89.Sep 12, 2019_11:10 89228 INFO gs.openapi.wsgi.server [ req-9tci3b-7kwbx-rq1a ] "GET /v2/2019-09-13 vendor_data.json HTTP/1.1" status: 404 len: 3127 time: 0.4191419
+L323~gs.compute.log.63.08-09-2019_13:04 80993 INFO gs.openstack.wsgi.server [ req-du3mf-vyrl-rq1a ] "GET /v2/2019-09-01 user_data.json HTTP/1.1" status: 201 len: 547 time: 0.4465447
+L326~gs.compute.log.22.Sep 13, 2019_03:16 33990 INFO gs.openapi.server [ req-wud8m-ydjr7v-10wn ] "GET /v2/2019-09-02 meta_data.json HTTP/1.1" status: 201 len: 3890 time: 0.5408541
+L333~gs.compute.log.68.Sep 06, 2019_23:47 84220 INFO gs.compute.manager [ req-7dxu2-vwypum-wbsqd-uab0iz-659m7 ] "GET /v2/2019-09-13 meta_data.json HTTP/1.1" status: 201 len: 6294 time: 0.1950195
+L344~gs.compute.log.24.06-09-2019_00:51 50056 INFO gs.openapi.server [ req-2bi3-51oy-86olmf-6arqu ] "GET /v2/2019-09-09 vendor_data.json HTTP/1.1" status: 201 len: 4525 time: 0.8050805
+L355~gs.compute.log.58.05-09-2019_18:17 91844 INFO gs.resource.resource_tracker [ req-k9ewd-9q2us-nhwlbg ] "GET /v2/2019-09-15 user_data.json HTTP/1.1" status: 201 len: 4686 time: 0.1983198
+L356~gs.compute.log.42.Sep 03, 2019_18:20 88926 INFO gs.resource.resource_tracker [ req-kz6vg-ax5skc-5zws-5u3f-a7s4 ] "GET /v2/2019-09-11 vendor_data.json HTTP/1.1" status: 201 len: 5756 time: 0.5807581
+L362~gs.compute.log.24.11-09-2019_21:40 49003 INFO gs.openapi.server [ req-ed9k-p2860-zwa26p-ved5la-9top1 ] "GET /v2/2019-09-05 user_data.json HTTP/1.1" status: 201 len: 750 time: 0.0511051
+L370~gs.compute.log.60.15-09-2019_04:10 25747 INFO gs.api.openapi.compute.wsgi [ req-rpa9o-92h5-gd4ks ] "GET /v2/2019-09-05 meta_data.json HTTP/1.1" status: 201 len: 1186 time: 0.1253125
+L411~gs.compute.log.96.14-09-2019_19:53 42747 INFO gs.api.openapi.compute.wsgi [ req-0eyq-ws0mh-rytxe8-du3mf ] "GET /v2/2019-09-11 user_data.json HTTP/1.1" status: 404 len: 5982 time: 0.3491349
+L418~gs.compute.log.88.Sep 10, 2019_04:57 7979 INFO gs.resource.manager [ req-rhezju-6hb83-7vse1y ] "GET /v2/2019-09-07 user_data.json HTTP/1.1" status: 201 len: 5797 time: 0.9458946
+L438~gs.compute.log.44.Sep 14, 2019_15:38 90384 INFO gs.resource.claims [ req-b85jx-o20nek-6purm-iz71-kd1q ] "GET /v2/2019-09-15 meta_data.json HTTP/1.1" status: 201 len: 1229 time: 0.6834683
+L447~gs.compute.log.51.12-09-2019_14:52 86946 INFO gs.resource.manager [ req-kd5eu-7aqk-i4mf-xms9j ] "GET /v2/2019-09-09 user_data.json HTTP/1.1" status: 201 len: 4906 time: 0.069507
+L449~gs.compute.log.87.Sep 09, 2019_11:11 22535 INFO gs.openapi.wsgi.server [ req-e8p6fh-s2ft-ed9k-fb9lk ] "GET /v2/2019-09-15 vendor_data.json HTTP/1.1" status: 201 len: 1810 time: 0.3859386
+L454~gs.compute.log.64.07-09-2019_20:49 24474 INFO gs.openstack.server [ req-n80j6-6arqu-c5n1vy ] "GET /v2/2019-09-10 user_data.json HTTP/1.1" status: 201 len: 7457 time: 0.3820382
+L457~gs.compute.log.28.10-09-2019_05:16 5814 INFO gs.resource.resource_tracker [ req-d7zuw6-uh29c-54er ] "GET /v2/2019-09-09 meta_data.json HTTP/1.1" status: 404 len: 8168 time: 0.0918092
+L465~gs.compute.log.73.06-09-2019_13:04 46894 INFO gs.openapi.server [ req-hjnbup-ntaj-a7s4-mzou-u9qae ] "GET /v2/2019-09-11 meta_data.json HTTP/1.1" status: 201 len: 9568 time: 0.7890789
+L472~gs.compute.log.74.04-09-2019_19:10 84154 INFO gs.compute.manager [ req-h0m2-ptcl-63u9fq ] "GET /v2/2019-09-15 user_data.json HTTP/1.1" status: 201 len: 2390 time: 0.2050205
+L488~gs.compute.log.54.Sep 15, 2019_20:33 41147 INFO gs.api.openstack.compute.wsgi [ req-cz92j4-ugkq-bztu59 ] "GET /v2/2019-09-09 vendor_data.json HTTP/1.1" status: 201 len: 471 time: 0.2580258
+L506~gs.compute.log.96.13-09-2019_16:10 26703 INFO gs.openapi.server [ req-voa1-mhyqjk-op4ryu-b85jx-mzou ] "GET /v2/2019-09-13 vendor_data.json HTTP/1.1" status: 404 len: 4048 time: 0.060206
+L513~gs.compute.log.75.Sep 07, 2019_15:26 77737 INFO gs.resource.manager [ req-cb8v-q7rzio-l8ejk ] "GET /v2/2019-09-13 user_data.json HTTP/1.1" status: 404 len: 5412 time: 0.8358836
+L541~gs.compute.log.43.Sep 13, 2019_17:11 58504 INFO gs.resource.manager [ req-hjnbup-pt2zo-n8jsx-nji3-4d8fin ] "GET /v2/2019-09-09 user_data.json HTTP/1.1" status: 404 len: 1953 time: 0.8517852
+L565~gs.compute.log.10.Sep 05, 2019_15:38 15186 INFO gs.openapi.server [ req-ydjr7v-c3mgjr-u9qae ] "GET /v2/2019-09-10 user_data.json HTTP/1.1" status: 404 len: 9244 time: 0.1041104
+L572~gs.compute.log.17.Sep 02, 2019_05:59 47299 INFO gs.resource.claims [ req-c3mgjr-vz2nx-eqb6yn-lx5g-p5ek ] "GET /v2/2019-09-03 user_data.json HTTP/1.1" status: 201 len: 6211 time: 0.4646465
+L586~gs.compute.log.50.04-09-2019_09:30 35501 INFO gs.resource.resource_tracker [ req-ydjr7v-c3mgjr-u9qae ] "GET /v2/2019-09-01 meta_data.json HTTP/1.1" status: 404 len: 860 time: 0.8105811
+L594~gs.compute.log.57.Sep 06, 2019_12:15 83758 INFO gs.api.openstack.compute.wsgi [ req-ndrl-53ijn-h9pg ] "GET /v2/2019-09-12 user_data.json HTTP/1.1" status: 201 len: 1432 time: 0.2759276
+L627~gs.compute.log.33.10-09-2019_13:46 89751 INFO gs.compute.manager [ req-cm93ef-4yrq2-er9xy-4nbsil-gm59z ] "GET /v2/2019-09-05 user_data.json HTTP/1.1" status: 404 len: 1760 time: 0.8589859
+L643~gs.compute.log.28.Sep 11, 2019_16:44 46475 INFO gs.api.openstack.compute.wsgi [ req-7jmh-5l1ne-nji3 ] "GET /v2/2019-09-08 vendor_data.json HTTP/1.1" status: 404 len: 4347 time: 0.0913091
+L648~gs.compute.log.99.03-09-2019_13:40 85934 INFO gs.openapi.server [ req-glde-1apj2-8vpj ] "GET /v2/2019-09-13 meta_data.json HTTP/1.1" status: 404 len: 4989 time: 0.4646465
+L655~gs.compute.log.31.Sep 02, 2019_05:05 55567 INFO gs.compute.resource_tracker [ req-kzunes-rvkx-258dx-ntaj-ndrl ] "GET /v2/2019-09-04 user_data.json HTTP/1.1" status: 201 len: 8031 time: 0.5434543
+L657~gs.compute.log.88.Sep 10, 2019_20:49 60221 INFO gs.openapi.server [ req-bztu59-a7s4-sxer ] "GET /v2/2019-09-02 user_data.json HTTP/1.1" status: 201 len: 3018 time: 0.1711171
+L670~gs.compute.log.78.Sep 05, 2019_03:19 48804 INFO gs.api.openapi.compute.wsgi [ req-gmw3-8aqge-joh69-zmogv ] "GET /v2/2019-09-12 vendor_data.json HTTP/1.1" status: 404 len: 666 time: 0.4253425
+L676~gs.compute.log.64.Sep 02, 2019_23:53 11242 INFO gs.openstack.server [ req-rpa9o-7jmh-6g4iw0-myq6t-x9cjd ] "GET /v2/2019-09-07 user_data.json HTTP/1.1" status: 201 len: 1176 time: 0.4083408
+L695~gs.compute.log.33.13-09-2019_10:34 26102 INFO gs.compute.resource_tracker [ req-1shqbf-v47k-2pz8-c5n1vy-lctxos ] "GET /v2/2019-09-11 meta_data.json HTTP/1.1" status: 404 len: 4483 time: 0.4113411
+L701~gs.compute.log.29.Sep 15, 2019_16:53 94887 INFO gs.compute.manager [ req-7jmh-5l1ne-nji3 ] "GET /v2/2019-09-06 user_data.json HTTP/1.1" status: 201 len: 3936 time: 0.0929093
+L702~gs.compute.log.19.02-09-2019_16:55 13524 INFO gs.openapi.server [ req-iz71-4cz1n-3q0vo-lem3a ] "GET /v2/2019-09-06 vendor_data.json HTTP/1.1" status: 201 len: 2877 time: 0.5886589
+L710~gs.compute.log.55.Sep 14, 2019_04:40 13649 INFO gs.openapi.server [ req-ynj5-tn296-az74cj-i805py ] "GET /v2/2019-09-11 meta_data.json HTTP/1.1" status: 404 len: 9977 time: 0.679968
+L711~gs.compute.log.21.Sep 15, 2019_02:30 63631 INFO gs.api.openstack.compute.wsgi [ req-37c9b-hxfm7-43bt7y-p5tb-ovjcx ] "GET /v2/2019-09-02 meta_data.json HTTP/1.1" status: 201 len: 3527 time: 0.1894189
+L722~gs.compute.log.53.Sep 08, 2019_15:13 47553 INFO gs.openstack.server [ req-43bt7y-n6g4-lem3a ] "GET /v2/2019-09-02 user_data.json HTTP/1.1" status: 201 len: 2580 time: 0.0175018
+L732~gs.compute.log.20.09-09-2019_10:06 85247 INFO gs.compute.resource_tracker [ req-n80j6-uol7ef-bid2-xtqs-tn296 ] "GET /v2/2019-09-08 vendor_data.json HTTP/1.1" status: 201 len: 3547 time: 0.9412941
+L760~gs.compute.log.52.Sep 09, 2019_18:41 91844 INFO gs.resource.resource_tracker [ req-dr2nm-n7w9u-7gtvf9-vhgtcd-2i1w ] "GET /v2/2019-09-15 vendor_data.json HTTP/1.1" status: 404 len: 5682 time: 0.1105111
+L792~gs.compute.log.44.01-09-2019_20:47 90218 INFO gs.compute.manager [ req-2pz8-ansf0b-1khtw-za7m ] "GET /v2/2019-09-12 user_data.json HTTP/1.1" status: 404 len: 6234 time: 0.6070607
+L802~gs.compute.log.73.02-09-2019_16:27 78318 INFO gs.api.openapi.compute.wsgi [ req-v3fcs-1eq4-10wn-vxb0tn ] "GET /v2/2019-09-10 user_data.json HTTP/1.1" status: 201 len: 3044 time: 0.1782178
+L805~gs.compute.log.32.10-09-2019_12:23 28186 INFO gs.openstack.server [ req-5bkrt-2x0buc-fb9lk-yuikx0-34nme6 ] "GET /v2/2019-09-01 user_data.json HTTP/1.1" status: 201 len: 2785 time: 0.9793979
+L811~gs.compute.log.27.05-09-2019_06:48 47743 INFO gs.api.openapi.compute.wsgi [ req-cb8v-vleiy-za7m-7zyp9-t5uyn ] "GET /v2/2019-09-11 vendor_data.json HTTP/1.1" status: 404 len: 9168 time: 0.1490149
+L830~gs.compute.log.40.10-09-2019_15:02 25880 INFO gs.api.openapi.compute.wsgi [ req-r60qt4-5u3f-x2rl ] "GET /v2/2019-09-03 vendor_data.json HTTP/1.1" status: 404 len: 9543 time: 0.880388
+L831~gs.compute.log.65.Sep 03, 2019_02:07 4392 INFO gs.resource.resource_tracker [ req-8qoj-ynj5-e6ba ] "GET /v2/2019-09-01 vendor_data.json HTTP/1.1" status: 201 len: 4909 time: 0.0905091
+L843~gs.compute.log.66.14-09-2019_12:15 33510 INFO gs.openstack.wsgi.server [ req-ydjr7v-c3mgjr-u9qae ] "GET /v2/2019-09-03 meta_data.json HTTP/1.1" status: 201 len: 6679 time: 0.6075608
+L851~gs.compute.log.98.Sep 14, 2019_12:47 47845 INFO gs.compute.manager [ req-ecovnl-cnklvu-h9pg-ntaj-ioxmw ] "GET /v2/2019-09-09 meta_data.json HTTP/1.1" status: 404 len: 1839 time: 0.9020902
+L856~gs.compute.log.41.06-09-2019_07:31 47299 INFO gs.openapi.server [ req-vleiy-st19-07b8k3-h4bjn-r60qt4 ] "GET /v2/2019-09-08 vendor_data.json HTTP/1.1" status: 201 len: 7345 time: 0.380038
+L858~gs.compute.log.91.Sep 07, 2019_12:07 15892 INFO gs.resource.manager [ req-uh29c-b5cn-j602eg-6fcpz3 ] "GET /v2/2019-09-12 user_data.json HTTP/1.1" status: 404 len: 7034 time: 0.9070907
+L859~gs.compute.log.90.Sep 12, 2019_15:18 10158 INFO gs.openstack.server [ req-e8p6fh-57sy1o-4agu ] "GET /v2/2019-09-09 vendor_data.json HTTP/1.1" status: 404 len: 3925 time: 0.0548055
+L864~gs.compute.log.21.Sep 02, 2019_13:39 49011 INFO gs.compute.manager [ req-jd74zt-43bt7y-m23xr-kd5eu ] "GET /v2/2019-09-13 vendor_data.json HTTP/1.1" status: 201 len: 1170 time: 0.4152415
+L867~gs.compute.log.29.Sep 03, 2019_11:36 32327 INFO gs.resource.claims [ req-glde-1apj2-8vpj ] "GET /v2/2019-09-13 meta_data.json HTTP/1.1" status: 201 len: 2118 time: 0.9031903
+L872~gs.compute.log.99.09-09-2019_03:48 31129 INFO gs.compute.manager [ req-57sy1o-8913pu-tfzd ] "GET /v2/2019-09-10 vendor_data.json HTTP/1.1" status: 201 len: 9038 time: 0.6785679
+L898~gs.compute.log.40.08-09-2019_04:42 45953 INFO gs.openapi.wsgi.server [ req-n3zb-lcj1d-epdv4-t8i3f ] "GET /v2/2019-09-05 user_data.json HTTP/1.1" status: 201 len: 9686 time: 0.6986699
+L949~gs.compute.log.46.12-09-2019_21:18 94685 INFO gs.resource.manager [ req-hfujap-2pz8-lctxos-nbd8 ] "GET /v2/2019-09-11 vendor_data.json HTTP/1.1" status: 404 len: 1830 time: 0.0407041
+L985~gs.compute.log.15.03-09-2019_01:58 67556 INFO gs.resource.claims [ req-2pz8-nv1ui-y5tj ] "GET /v2/2019-09-06 meta_data.json HTTP/1.1" status: 404 len: 9404 time: 0.6135614
+L994~gs.compute.log.31.Sep 13, 2019_21:27 17587 INFO gs.resource.resource_tracker [ req-vwypum-voi178-2soxl-rma8-vpog ] "GET /v2/2019-09-12 meta_data.json HTTP/1.1" status: 201 len: 3755 time: 0.4272427
+L1002~gs.compute.log.14.01-09-2019_15:13 89407 INFO gs.compute.resource_tracker [ req-0e1x4b-07c3-vhgtcd ] "GET /v2/2019-09-10 user_data.json HTTP/1.1" status: 404 len: 6032 time: 0.069507
+L1005~gs.compute.log.83.Sep 11, 2019_01:01 29925 INFO gs.resource.claims [ req-37c9b-h0m2-h0kd-lf8pr1-ndrl ] "GET /v2/2019-09-13 vendor_data.json HTTP/1.1" status: 201 len: 6661 time: 0.2130213
+L1015~gs.compute.log.91.Sep 08, 2019_23:17 12611 INFO gs.openapi.server [ req-az74cj-5v7pe0-tdskc-glde-pg4e ] "GET /v2/2019-09-01 meta_data.json HTTP/1.1" status: 201 len: 8483 time: 0.0694069
+L1018~gs.compute.log.37.Sep 13, 2019_04:45 82370 INFO gs.resource.resource_tracker [ req-uy1al5-2ox7h9-b0u4v ] "GET /v2/2019-09-07 meta_data.json HTTP/1.1" status: 201 len: 5544 time: 0.3705371
+L1042~gs.compute.log.24.Sep 10, 2019_13:13 65185 INFO gs.resource.resource_tracker [ req-guc3-za7m-1k8xh-072ft ] "GET /v2/2019-09-11 meta_data.json HTTP/1.1" status: 201 len: 1338 time: 0.4063406
