@@ -19,10 +19,10 @@ except ImportError:
 def get_options():
     cf = ConfigParser.ConfigParser()
 
-    if os.path.exists("config.cof"):
+    if os.path.exists("configurationfile.cof"):
         cf.read('config.cof')
     else:
-        print("there is no config.cof!")
+        print("there is no configurationfile.cof!")
         exit()
 
     option_dict = dict()
