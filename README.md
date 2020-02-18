@@ -6,9 +6,6 @@ Companies depends upon logs to monitor the behavior of thousands of applications
               However, different applications built by different engineers tend to communicate the same kinds of failures in different ways.This makes the process of identifying similar failures across different applications difficult and tedious.
 The problem to solve is just this - given a set of log lines, assign each to a cluster. The overall goal of this problem is to identify the intent of each log line and group log lines with the same intent in the same cluster.
 
-### Results
+### Flow Diagram
 
-![img](https://imgur.com/WPkfx08.png)
-
-
-
+![img](https://imgur.com/4iObT18.png)
